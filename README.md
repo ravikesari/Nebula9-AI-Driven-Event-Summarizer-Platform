@@ -5,7 +5,7 @@ Client Side -
 
 Server Side - 
  - cd server
- - npm init
+ - npm install
  - npm run dev
 
 
